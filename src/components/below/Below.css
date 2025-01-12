@@ -1,0 +1,61 @@
+.butt{
+    display: flex;
+    gap:32px ;
+    
+}
+
+.frame{
+    width: 1161px;
+    height: 600px;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+.field{
+    display: flex;
+    flex-direction: column;    
+    margin-left: 35px;
+    margin-top: 10px;   
+}
+.field input {
+    display: flex;
+    flex-direction: column;
+    width:440px;
+    height:40px;   
+    border-color: #5A5959;
+    border-radius: 5px;
+      
+}
+.field label{
+    display: flex;
+    flex-direction: column;    
+    margin-left: 35px;
+    margin-top: 10px;   
+}
+
+.field textarea{
+    display: flex;
+    flex-direction: column;   
+    max-width: 440px; 
+    max-height: 300px;
+    border: 1px solid black;
+    
+          
+}
+.frame{
+    display: flex;
+    
+}
+.imglady{
+    width: 608px;
+    height: 615px;
+    position: relative;
+    margin-top: -60px;
+    margin-left: 40px;
+}
+
+
+
+
+
+
+
